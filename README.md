@@ -5,6 +5,8 @@
 Body Mass Index Calculator is inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). 
 It will be a multi screen app with simple functionality but full-on custom styling. 
 
+## Final App Preview 
+<img src="https://github.com/Adarsh9616/Body-Mass-Index-Calculator-Using-Flutter/blob/master/Screenshot1.gif" width="300" height="500">
 
 ## What i have learned
 
